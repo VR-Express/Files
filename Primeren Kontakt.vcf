@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Primeren Kontakt
+TEL;TYPE=CELL:+359 3 3333 333
+TEL;TYPE=WORK:+359 4 4444 444
+EMAIL:primerenkontakt@email.com
+END:VCARD
